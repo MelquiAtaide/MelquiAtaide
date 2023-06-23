@@ -2,7 +2,7 @@
 
 
 - 🔭 Estudante de Programação
-- 🎓 Graduando em Sistemas de informação, 7/8
+- 🎓 Graduando em Sistemas de informação, 8/8
 
 <div align="center">
   <a href="https://github.com/MelquiAtaide">
